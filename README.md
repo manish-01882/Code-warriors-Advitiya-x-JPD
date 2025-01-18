@@ -1,16 +1,8 @@
-# Code-warriors-Advitiya-x-JPD
-IIT ROPAR HACKATHON BY ADVITIYA x JPD (unstop)
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Talent Module for JPD Hub
+Currently, two official plugins are available:
 
-## Overview
-This repository contains the Talent Module for the JPD Hub platform. It enables Talents to create profiles, Clients to browse and hire Talents, and Admins to manage and approve profiles. The solution is designed to be scalable, user-friendly, and efficient.
-
-## Features
-- **Talent Features**: Registration, profile creation, availability management, and showcasing skills.
-- **Client Features**: Browse, filter, and hire Talents with messaging and rating options.
-- **Admin Features**: Approve/reject profiles, manage content, and monitor activities.
-
----
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
