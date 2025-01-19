@@ -10,6 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "joi": "^17.13.3",
+>>>>>>> cf4a7d335759401c8c2f5600be736a507d8566ab
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
